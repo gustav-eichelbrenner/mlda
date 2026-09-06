@@ -7,5 +7,3 @@ copy /Y "C:\Users\howard\Desktop\Obsidian folders\ВУЗ\5 сем\MLDA\Экза�
 git add .
 git commit -m "Экзаменационные вопросы: обновлено"
 git push origin main --force
-
-pause
