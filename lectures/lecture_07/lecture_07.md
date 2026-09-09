@@ -13,7 +13,7 @@ jupyter:
 ---
 
 <!-- #region editable=true jupyterlab-deck={"layer": "deck"} slideshow={"slide_type": "slide"} -->
-# Лекция 9: Линейные модели регрессии и классификации
+# Лекция 7: Линейные модели регрессии и классификации
 
 Машинное обучение и анализ данных
 
@@ -21,7 +21,8 @@ jupyter:
 
 Красников Александр Сергеевич
 
-2024-2025
+2026-2027
+
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": "slide"} -->
