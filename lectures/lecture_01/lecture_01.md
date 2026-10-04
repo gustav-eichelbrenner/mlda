@@ -1,12 +1,12 @@
-
 ---
+
 jupyter:
   jupytext:
     text_representation:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.16.4
+      jupytext_version: 1.19.5
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
@@ -14,7 +14,7 @@ jupyter:
 ---
 
 <!-- #region editable=true raw_mimetype="" slideshow={"slide_type": "slide"} -->
-# Лекция 1. Введение в машинное обучение и анализ данных
+# Лекция 1: Введение в машинное обучение и анализ данных
 
 Машинное обучение и анализ данных
 
@@ -22,7 +22,8 @@ jupyter:
 
 Красников Александр Сергеевич
 
-2024
+2026-2027
+
 <!-- #endregion -->
 
 ```html editable=true slideshow={"slide_type": "skip"}
@@ -488,9 +489,5 @@ https://www.rst.gov.ru/portal/gost/home/standarts/aistandarts
 - теория вероятностей и математическая статистика
 - программирование
 - **машинное обучение**
-
-<!-- #endregion -->
-
-<!-- #region editable=true slideshow={"slide_type": ""} -->
 
 <!-- #endregion -->
